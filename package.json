@@ -1,0 +1,13 @@
+{
+  "name": "Base theme",
+  "version": "0.2.5",
+  "description": "Wordpress Theme with SASS compile",
+  "main": "front-page.php",
+  "author": "Ludovic Porlan",
+  "scripts": {
+    "sass": "sass --watch ./src/sass/main.scss:./src/css/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.52.3"
+  }
+}

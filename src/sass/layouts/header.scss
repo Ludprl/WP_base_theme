@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    width: 100%;
+    max-width: 1440px;
+    justify-content: space-between;
+    margin: auto;
+
+}
+.header__left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
