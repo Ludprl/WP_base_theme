@@ -1,0 +1,10 @@
+.blog__group{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15px;
+}
+.blog__card{
+    width: 33.33%;
+    border: 1px solid black;
+}

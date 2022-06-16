@@ -370,4 +370,22 @@ nav ul {
   list-style: none;
 }
 
+footer {
+  height: 150px;
+  width: 100%;
+  background-color: black;
+}
+
+.blog__group {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.blog__card {
+  width: 33.33%;
+  border: 1px solid black;
+}
+
 /*# sourceMappingURL=style.css.map */
